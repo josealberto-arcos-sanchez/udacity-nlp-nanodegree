@@ -4,7 +4,7 @@
 
 Capturing, cleaning, normalization, tokenization, stop word removal, stemming and lemmatization.
 
-[Link to the code]()
+[Link to the code](https://github.com/josealberto-arcos-sanchez/udacity-nlp-nanodegree/blob/master/text_processing/text_processing.ipynb)
 
 ### Project 1: Part of Speech Tagging with Hidden Markov Models
 
@@ -16,8 +16,7 @@ The notebook already contains some code to get you started. You only need to add
 
 NOTE: There is an optional warmup exercise to introduce the Pomegranate API included in the project files. Just launch the HMM warmup (optional).ipynb file first to get started there, then complete the hmm tagger.ipynb notebook. (Only the tagger will be submitted for review.)
 
-[Link to the code](
-)
+[Link to the code](https://github.com/josealberto-arcos-sanchez/udacity-nlp-nanodegree/tree/master/project1/hmm-tagger)
 
 ### Project 2: Machine Translation
 
@@ -25,7 +24,7 @@ Machine translation is a popular topic in research with new papers coming out ev
 
 In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
 
-[Link to the code]()
+[Link to the code](https://github.com/josealberto-arcos-sanchez/udacity-nlp-nanodegree/tree/master/project2/aind2-nlp-capstone)
 
 ### Project 3: DNN Speech Recognizer
 
@@ -33,5 +32,5 @@ In this notebook, you will build a deep neural network that functions as part of
 
 We begin by investigating the LibriSpeech dataset that will be used to train and evaluate your models. Your algorithm will first convert any raw audio to feature representations that are commonly used for ASR. You will then move on to building neural networks that can map these audio features to transcribed text. After learning about the basic types of layers that are often used for deep learning-based approaches to ASR, you will engage in your own investigations by creating and testing your own state-of-the-art models. Throughout the notebook, we provide recommended research papers for additional reading and links to GitHub repositories with interesting implementations.
 
-[Link to the code]()
+[Link to the code](https://github.com/josealberto-arcos-sanchez/udacity-nlp-nanodegree/blob/master/project3/vui_notebook.ipynb)
 
